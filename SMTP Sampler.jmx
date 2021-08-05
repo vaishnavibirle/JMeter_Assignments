@@ -30,9 +30,9 @@
           <stringProp name="TestPlan.comments">Sending mail</stringProp>
           <stringProp name="SMTPSampler.server">smtp.googlemail.com</stringProp>
           <stringProp name="SMTPSampler.serverPort">465</stringProp>
-          <stringProp name="SMTPSampler.mailFrom">vaishnavibirle1133@gmail.com</stringProp>
+          <stringProp name="SMTPSampler.mailFrom"></stringProp>
           <stringProp name="SMTPSampler.replyTo"></stringProp>
-          <stringProp name="SMTPSampler.receiverTo">vaishnavibirle1133@gmail.com</stringProp>
+          <stringProp name="SMTPSampler.receiverTo"></stringProp>
           <stringProp name="SMTPSampler.receiverCC"></stringProp>
           <stringProp name="SMTPSampler.receiverBCC"></stringProp>
           <stringProp name="SMTPSampler.subject">check smtp test</stringProp>
@@ -51,8 +51,8 @@
           <boolProp name="SMTPSampler.use_eml">false</boolProp>
           <stringProp name="SMTPSampler.emlMessageToSend"></stringProp>
           <stringProp name="SMTPSampler.useAuth">true</stringProp>
-          <stringProp name="SMTPSampler.password">vaishnavi@123</stringProp>
-          <stringProp name="SMTPSampler.username">vaishnavibirle1133@gmail.com</stringProp>
+          <stringProp name="SMTPSampler.password"></stringProp>
+          <stringProp name="SMTPSampler.username"></stringProp>
           <stringProp name="SMTPSampler.messageSizeStatistics">false</stringProp>
           <stringProp name="SMTPSampler.enableDebug">false</stringProp>
           <collectionProp name="SMTPSampler.headerFields"/>
